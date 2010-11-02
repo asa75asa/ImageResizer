@@ -1,0 +1,1 @@
+Windows Explorer shell extension for resizing images
